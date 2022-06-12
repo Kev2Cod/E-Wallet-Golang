@@ -3,10 +3,11 @@
 Please Running this link before/after go :
 you can using Postman and browser to run link
 
+For Transaction
 ```
 - http://127.0.0.1:3000/consume
 ```
-
+For Top up balance wallet
 ```
 - http://127.0.0.1:3000/consume-topup
 ```
@@ -14,6 +15,8 @@ you can using Postman and browser to run link
 for use API, use this link :
 
 - Login
+Email : user@mail.com
+pass  : 123
 
 ```
   http://127.0.0.1:3000/login
