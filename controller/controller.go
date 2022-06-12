@@ -173,10 +173,7 @@ func ConsumeWallet(ctx *fiber.Ctx) {
 
 // ========== Topup Publish ===========
 func Topup(ctx *fiber.Ctx) {
-	// user := ctx.Locals("user").(*jwt.Token)
-	// claims := user.Claims.(jwt.MapClaims)
-	// name := claims["name"].(string)
-
+	
 	var body Model.TopUp
 	err := ctx.BodyParser(&body)
 	if err != nil {
