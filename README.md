@@ -1,6 +1,7 @@
 ## Test Backend Mejik
 
 Please Running this link before/after go :
+you can using Postman and browser to run link
 
 ```
 - http://127.0.0.1:3000/consume
