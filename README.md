@@ -5,11 +5,11 @@ you can using Postman and browser to run link
 
 For Transaction
 ```
-- http://127.0.0.1:3000/consume
+http://127.0.0.1:3000/consume
 ```
 For Top up balance wallet
 ```
-- http://127.0.0.1:3000/consume-topup
+http://127.0.0.1:3000/consume-topup
 ```
 
 for use API, use this link :
