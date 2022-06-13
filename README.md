@@ -5,14 +5,15 @@ Run app
 go run main.go
 ```
 
+
 Please Running this link before/after go :
 you can using Postman and browser to run link
 
-For Transaction
+- For Transaction
 ```
 http://127.0.0.1:3000/consume
 ```
-For Top up balance wallet
+- For Top up balance wallet
 ```
 http://127.0.0.1:3000/consume-topup
 ```
