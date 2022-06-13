@@ -1,5 +1,10 @@
 ## Test Backend Mejik
 
+Run app
+```
+go run main.go
+```
+
 Please Running this link before/after go :
 you can using Postman and browser to run link
 
